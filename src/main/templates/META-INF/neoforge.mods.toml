@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "lightspeed"
+version = "${mod_version}"
+displayName = "Lightspeed"
+authors = "CCr4ft3r, kltyton, tundrey"
+description = '''
+Buys you time by loading heavy modpacks significantly faster
+'''
+
+[[dependencies.lightspeed]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.lightspeed]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"

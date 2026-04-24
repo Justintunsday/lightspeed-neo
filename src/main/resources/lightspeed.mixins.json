@@ -1,0 +1,15 @@
+"client": [
+"misc.KeyValueConditionMixin",
+"misc.MaterialMixin",
+"misc.ResourceLocationMixin",
+"misc.ResourcePackLoaderMixin",
+"misc.SelectorMixin",
+"misc.StateDefinitonMixin",
+"model.BlockModelMixin",
+"model.MultiPartMixin",
+"model.MultivariantMixin",
+"resources.AbstractPackResourcesMixin",
+"resources.FilePackResourcesMixin",
+"resources.PathResourcePackMixin",
+"resources.VanillaPackResourcesMixin"
+],
